@@ -48,4 +48,32 @@ This Google Apps Script project automates the process of handling Google Form su
 ---
 
 
+---
+
+## 🧠 Tech Used
+
+- Google Apps Script (JavaScript-like)
+- Google Forms
+- Google Sheets
+- Google Drive
+- Gmail Service
+
+---
+
+## 🔐 Permissions Notice
+
+This script requires authorization to access your:
+- Google Sheets
+- Google Drive
+- Gmail
+
+Only the form owner and script editor will have access.
+
+---
+
+## 💬 Credits
+
+Built with ❤️ as part of [Malith's Brutal 30-Project Execution Plan](#) to reach $1M through automation, freelancing, and Python/JS mastery.
+
+
 
